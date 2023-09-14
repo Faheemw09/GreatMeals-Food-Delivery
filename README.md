@@ -1,4 +1,4 @@
-# quirky-taste-6442-greatMeals
+#GreatMeals Food Delivery
 
 
 GreatMeals is a web-based food app that allows users to explore and order delicious meals from various restaurants. It provides features such as adding items to the cart, sorting and searching for meals, an admin page for CRUD operations, and a checkout process with an address page.
